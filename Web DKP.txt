@@ -1,0 +1,11 @@
+A. Homepage
+- Visi Misi
+- Artikel
+- Monitoring Ketahanan Pangan (Semacam Grafik)
+
+B. Page bidang Konsumsi : 
+- Bagian Sambutan (Welcome)
+- Berita Terbaru (Terhubung dengan page artikel)
+- Daftar Harga pangan (Terhubung ke page Harga Pangan)
+- Informasi kegiatan (Terhubung ke page kegiatan)
+- Longwis Stuff (Terhubung ke Web Longwis)
