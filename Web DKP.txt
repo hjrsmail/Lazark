@@ -9,3 +9,11 @@ B. Page bidang Konsumsi :
 - Daftar Harga pangan (Terhubung ke page Harga Pangan)
 - Informasi kegiatan (Terhubung ke page kegiatan)
 - Longwis Stuff (Terhubung ke Web Longwis)
+
+C. Page Bidang Ketersediaan dan Produksi Pangan :
+- Bagian Sambutan
+- Berita Terbaru
+- Daftar Harga Pangan
+- Informasi Kegiatan
+- To Do List Kegiatan
+- Daftar Mitra Pangan
